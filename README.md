@@ -60,7 +60,7 @@ Conexión entre sistemas contables y datos oficiales. API de consulta de contrib
 </td>
 <td width="50%" valign="top">
 
-**Aparte: gen-pdf**
+**gen-pdf**
 <br>
 Utilidad open-source para edición visual y exportación a PDF. Un proyecto personal.
 <br><br>
