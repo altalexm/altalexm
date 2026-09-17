@@ -1,33 +1,49 @@
 <div align="center">
 
-# hey, soy Álex
+`@altalexm`
 
-**Web, móvil y alguna que otra idea que termina en un repositorio.**
+# Álex Macias
+### Software que sostiene operaciones reales — web, móvil y escritorio.
 
-Me gusta construir cosas: desde apps para negocios hasta herramientas para mi PC.<br>
-Por aquí hay PHP, Python, JavaScript y proyectos que siguen tomando forma.
+Construyo sistemas para negocios en producción: gestión, ventas, inventario, facturación electrónica e integraciones. Menos demos, más software que se usa todos los días.
 
-[altalexm](https://github.com/altalexm) &nbsp; / &nbsp; antes [LexDevM](https://github.com/LexDevM)
+**Ecuador · Web / Móvil / Sistemas internos**
 
 </div>
 
 ---
 
-### Cosas que estoy construyendo
+> **Ahora mismo:** enfocado en un sistema de gestión empresarial con facturación electrónica para Ecuador, y en proyectos OS.
+
+<div align="center">
+
+| web | móvil | escritorio + datos |
+| :--- | :--- | :--- |
+| PHP · Laravel · Livewire | Dart · Flutter · Supabase | Python · FastAPI · PostgreSQL · PyQt6 |
+
+</div>
+
+---
+
+### En el taller
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>Gestora</h3>
-<p>Ventas, inventario y facturación electrónica en un mismo lugar. Mi proyecto de gestión empresarial para Ecuador.</p>
+**Gestora — gestión empresarial**
+<br>
+Ventas, inventario y facturación electrónica en un solo lugar. Pensada para la operación diaria de negocios en Ecuador, no como prototipo.
+<br><br>
 <code>PHP</code> <code>Laravel</code> <code>Livewire</code>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>Cervecería León</h3>
-<p>La gestión del negocio, desde el teléfono. Una app móvil pensada para acompañar las operaciones del día a día.</p>
+**Cervecería León — operación desde el teléfono**
+<br>
+App móvil para acompañar el negocio en el día a día: consulta y gestión fuera del escritorio.
+<br><br>
 <code>Dart</code> <code>Flutter</code> <code>Supabase</code>
 
 </td>
@@ -35,42 +51,49 @@ Por aquí hay PHP, Python, JavaScript y proyectos que siguen tomando forma.
 <tr>
 <td width="50%" valign="top">
 
-<h3>APIs & datos</h3>
-<p>Conectando sistemas para negocios a nivel nacional. Entre lo que estoy desarrollando: una API de consulta de contribuyentes para integrar datos del SRI en mi sistema contable.</p>
+**APIs + datos — integraciones SRI**
+<br>
+Conexión entre sistemas contables y datos oficiales. API de consulta de contribuyentes para integrar información del SRI.
+<br><br>
 <code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code>
 
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/LexDevM/VelocityOS">VelocityOS</a></h3>
-<p>Mi lado de escritorio y gaming: una suite para Windows con perfiles de optimización, monitoreo de recursos y diagnóstico de red.</p>
-<code>Python</code> <code>PyQt6</code> <code>open source</code>
+**Aparte: gen-pdf**
+<br>
+Utilidad open-source para edición visual y exportación a PDF. Un proyecto personal.
+<br><br>
+<a href="https://github.com/altalexm/gen-pdf">ver código</a>
+<br><br>
+<code>Python</code> <code>FastAPI</code> <code>Docker</code>
 
 </td>
 </tr>
 </table>
 
-### Entre mis herramientas
+---
 
-<p>
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-<img alt="Java" src="https://img.shields.io/badge/Java-E76F00?style=flat-square">
-<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
-<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-</p>
+### Cómo trabajo
 
-`Laravel` · `Livewire` · `Flutter` · `Supabase` · `FastAPI` · `PyQt6` · `Docker` · `Git`
+```
+negocio_primero();
+  → entiendo la operación antes de escribir código
+  → construyo por iteraciones que ya se pueden usar
+  → integro: facturación, datos, inventario, documentos
+  → dejo el sistema corriendo en producción, no en slides
+```
+
+**Caja de herramientas:** `PHP` · `Python` · `JavaScript` · `Dart` · `Laravel` · `Livewire` · `Flutter` · `FastAPI` · `Supabase` · `PostgreSQL` · `Docker` · `Git` · `Linux` · `Windows tooling`
 
 ---
 
-<p align="center">
-Parte de lo que he creado sigue en <a href="https://github.com/LexDevM">@LexDevM</a>.<br>
-Ahora sigo construyendo desde <b>@altalexm</b>
-</p>
+<div align="center">
 
-<p align="center">
-<i>Que veas pocos repositorios públicos no significa que mis conocimientos sean básicos. No todo lo que construyo está a la vista ;)</i>
-</p>
+Gran parte de mi trabajo corre en privado, en sistemas en producción para negocios reales.
+
+<br><br>
+
+`altalexm` — construir, poner en producción, iterar.
+
+</div>
