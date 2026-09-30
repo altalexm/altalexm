@@ -12,8 +12,11 @@ Sistema que reúne ventas, inventario y facturación electrónica para la operac
 **SRI Directory API**  
 API de consulta de contribuyentes para conectar información del SRI con sistemas contables. Desarrollada con Python, FastAPI y PostgreSQL.
 
-**InfoFive API y [athiscore.com](https://athiscore.com)**  
-También forman parte del trabajo que desarrollamos en equipo: InfoFive API y el sitio web de Athiscore.
+**InvoFive API · Facturación electrónica**  
+API multiempresa para integrar la emisión de facturas en sistemas de negocio. Gestiona la generación y firma electrónica del XML, el envío al SRI y el seguimiento de la autorización, con RIDE en PDF y entrega por correo. Desarrollada con PHP, Laravel y PostgreSQL, con panel administrativo en Filament.
+
+**[athiscore.com](https://athiscore.com) · Web corporativa**  
+Sitio de Athiscore que reúne servicios, catálogo de productos, equipo y contacto comercial. Desarrollado con Astro y TypeScript, con páginas estáticas, diseño adaptable y un servicio de recepción de consultas. Incluye comprobaciones automatizadas de navegación, formularios y accesibilidad.
 
 ## Otros proyectos
 
