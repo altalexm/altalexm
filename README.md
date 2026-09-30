@@ -1,99 +1,28 @@
-<div align="center">
+# Alex Macias
 
-`@altalexm`
+Desarrollo software de gestión para negocios en Ecuador: ventas, inventario, facturación electrónica e integración de datos. Trabajo en aplicaciones web, móviles y de escritorio, desde el análisis de la operación hasta la puesta en producción y sus siguientes iteraciones.
 
-# Álex Macias
-### Software que sostiene operaciones reales — web, móvil y escritorio.
+## Trabajo actual
 
-Construyo sistemas para negocios en producción: gestión, ventas, inventario, facturación electrónica e integraciones. Menos demos, más software que se usa todos los días.
+**Gestora · Gestión empresarial**  
+Sistema que reúne ventas, inventario y facturación electrónica para la operación diaria de negocios en Ecuador. Desarrollado con PHP, Laravel y Livewire.
 
-**Ecuador · Web / Móvil / Sistemas internos**
+**Cervecería León · Aplicación móvil**  
+Aplicación para consultar y gestionar información del negocio desde el teléfono. Desarrollada con Flutter, Dart y Supabase.
 
-</div>
+**Integraciones con datos del SRI**  
+API de consulta de contribuyentes para conectar información del SRI con sistemas contables. Desarrollada con Python, FastAPI y PostgreSQL.
 
----
+Estos proyectos forman parte de mi trabajo en repositorios privados.
 
-> **Ahora mismo:** enfocado en un sistema de gestión empresarial con facturación electrónica para Ecuador, y en proyectos OS.
+## Criterio de trabajo
 
-<div align="center">
+Empiezo por entender cómo se realizan las ventas, se registra el inventario y circula la información. A partir de ese proceso, desarrollo entregas que puedan usarse y revisarse con quienes operan el sistema. El trabajo continúa con la integración, la puesta en producción y los ajustes que exige el uso cotidiano.
 
-| web | móvil | escritorio + datos |
-| :--- | :--- | :--- |
-| PHP · Laravel · Livewire | Dart · Flutter · Supabase | Python · FastAPI · PostgreSQL · PyQt6 |
+## Código abierto
 
-</div>
+[gen-pdf](https://github.com/altalexm/gen-pdf) es un proyecto personal de código abierto para editar documentos visualmente y exportarlos a PDF, desarrollado con Python y FastAPI.
 
----
+## Contacto
 
-### En el taller
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Gestora — gestión empresarial**
-<br>
-Ventas, inventario y facturación electrónica en un solo lugar. Pensada para la operación diaria de negocios en Ecuador, no como prototipo.
-<br><br>
-<code>PHP</code> <code>Laravel</code> <code>Livewire</code>
-
-</td>
-<td width="50%" valign="top">
-
-**Cervecería León — operación desde el teléfono**
-<br>
-App móvil para acompañar el negocio en el día a día: consulta y gestión fuera del escritorio.
-<br><br>
-<code>Dart</code> <code>Flutter</code> <code>Supabase</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**APIs + datos — integraciones SRI**
-<br>
-Conexión entre sistemas contables y datos oficiales. API de consulta de contribuyentes para integrar información del SRI.
-<br><br>
-<code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code>
-
-</td>
-<td width="50%" valign="top">
-
-**gen-pdf**
-<br>
-Utilidad open-source para edición visual y exportación a PDF. Un proyecto personal.
-<br><br>
-<a href="https://github.com/altalexm/gen-pdf">ver código</a>
-<br><br>
-<code>Python</code> <code>FastAPI</code> <code>Docker</code>
-
-</td>
-</tr>
-</table>
-
----
-
-### Cómo trabajo
-
-```
-negocio_primero();
-  → entiendo la operación antes de escribir código
-  → construyo por iteraciones que ya se pueden usar
-  → integro: facturación, datos, inventario, documentos
-  → dejo el sistema corriendo en producción, no en slides
-```
-
-**Caja de herramientas:** `PHP` · `Python` · `JavaScript` · `Dart` · `Laravel` · `Livewire` · `Flutter` · `FastAPI` · `Supabase` · `PostgreSQL` · `Docker` · `Git` · `Linux` · `Windows tooling`
-
----
-
-<div align="center">
-
-Gran parte de mi trabajo corre en privado, en sistemas en producción para negocios reales.
-
-<br><br>
-
-`altalexm` — construir, poner en producción, iterar.
-
-</div>
+[athiscore.com](https://athiscore.com) · [amacias@athiscore.com](mailto:amacias@athiscore.com)
